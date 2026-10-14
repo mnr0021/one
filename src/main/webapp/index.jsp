@@ -1157,7 +1157,7 @@
                         <button class="icon-btn" id="cartBtn" title="Cart" aria-label="Cart">
                             <i class="fas fa-shopping-bag"></i>
                         </button>
-                        <span class="cart-count" id="cartCount">0</span>
+                        <span class="cart-count" id="cartCount">4</span>
                     </div>
                 </div>
             </div>
